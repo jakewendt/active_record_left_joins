@@ -2,6 +2,10 @@
 
 
 
+doesn't work with has_one or has_many :through, yet
+
+
+
 
 
 
