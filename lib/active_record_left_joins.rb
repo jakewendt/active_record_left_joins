@@ -1,7 +1,10 @@
 module ActiveRecord
 	module Querying
 		#	This makes it available as the first call
-		delegate :left_joins, :to => :scoped
+		#
+		#	activerecord-4.0.3/lib/active_record/versions/querying.rb
+		#
+		delegate :left_joins, :to => :all
 	end	#	module Querying
 	class Relation
 
