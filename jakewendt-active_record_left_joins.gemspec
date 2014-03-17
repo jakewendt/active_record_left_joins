@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "jakewendt-active_record_left_joins"
-  s.version = "0.0.0"
+  s.version = "4.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["George 'Jake' Wendt"]
-  s.date = "2013-12-03"
+  s.date = "2014-03-17"
   s.description = "active_record_left_joins"
   s.email = "github@jakewendt.com"
   s.extra_rdoc_files = [
