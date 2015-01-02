@@ -6,6 +6,9 @@ doesn't work with has_one or has_many :through, yet
 
 
 
+rails 4.2.0 and arel 6 seem to muck this up.
+I don't really use it anymore so this repo is effectively dead now.
+
 
 
 
